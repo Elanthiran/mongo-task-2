@@ -1,1 +1,84 @@
-collections for users, codekata, attendance, topics, tasks, company drives, and mentors
+## 📊 mongo-task-2(Mongodb queries)
+
+A complete collection of MongoDB queries covering topics, tasks, company drives, placements, mentors, codekata problems, and attendance case studies.
+
+---
+## 🚀 Features
+
+- MongoDB queries for real-world scenarios
+
+- Covers topics, tasks, company drives, placements, codekata problems, mentors, and attendance
+
+- Aggregation pipelines with $lookup, $match, $group, $project, and $count
+
+- Hands-on practice with date filtering and relationships between collections
+
+---
+
+## 📂 Project Structure
+mongo-task-2/
+ ├── database
+ │ ├── design
+ ├── readme
+---
+
+## 🔗 Clone
+```bash
+git clone https://github.com/Elanthiran/mongo-task-2.git
+cd mongo-task-2
+```
+---
+
+## 🛠️ Usage
+
+- Install MongoD
+
+- Import your dataset into MongoDB collections (topics, tasks, users, companydrives, codekata, attendance)
+
+- Open Mongo shell and run queries from the queries/ folder
+
+---
+
+## 📸 Screenshots
+
+![mongo-task-2](./mongo-task2img.png)
+
+---
+
+
+## 🧑‍💻 Tech Stack
+
+- MongoDB
+
+- Mongo Shell / MongoDB Compass
+
+---
+
+## 🔮 Future Improvements
+
+- Add sample datasets for quick testing
+
+- Include MongoDB Atlas cloud setup guide
+
+- Provide Node.js scripts to run queries
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! 
+- Fork the repo
+
+- Create a new branch (git checkout -b feature-branch)
+
+- Commit your changes (git commit -m "Added new feature")
+
+- Push to the branch (git push origin feature-branch)
+
+- Open a Pull Request 🚀
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
